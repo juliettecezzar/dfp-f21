@@ -23,7 +23,7 @@ At the end of this course, students will be able to:
 – Offer constructive feedback for others’ work
 
 
-**WEEK 1: Introduction to design and publishing** _August 27_
+**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-1:-Introduction-to-design-and-publishing)** _August 27_
 
 **WEEK 2: What is publishing?** _September 3_ 
 
