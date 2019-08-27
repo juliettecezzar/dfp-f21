@@ -1,9 +1,6 @@
 # **Design and the Future of Publishing**
-The New School for Social Research
-
-Faculty name: Juliette Cezzar
-
-Course #: GPUB 5002-A — CRN#: 3696
+The New School for Social Research#
+GPUB 5002-A — CRN#: 3696
 
 Office hours by appointment: cezzarj@newschool.edu
 
@@ -35,6 +32,7 @@ Reading: Bhaskar, Michael: The Problem of Publishing, from The Content Machine; 
 Exercise #1: Image and text (in class)
 
 
+
 **WEEK 2: September 3**
 
 Seminar: What is publishing? 
@@ -45,6 +43,7 @@ Reading: Introduction and Ch1 of Ludovico, What is
 graphic and communication design? 
 
 Exercise #2: Small differences
+
 
 
 **WEEK 3: September 10**
