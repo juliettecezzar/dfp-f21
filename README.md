@@ -23,29 +23,29 @@ At the end of this course, students will be able to:
 – Offer constructive feedback for others’ work
 
 
-**WEEK 1: August 27** Introduction to design and publishing
+**WEEK 1: Introduction to design and publishing** _August 27_
 
-**WEEK 2: September 3** What is publishing? 
+**WEEK 2: What is publishing?** _September 3_ 
 
-**WEEK 3: September 10** What is design? & a little history
+**WEEK 3: What is design? & a little history** _September 10_
 
-**WEEK 4: September 17** What is typography?
+**WEEK 4: What is typography?** _September 17_
 
-**WEEK 5: September 24** What is content?
+**WEEK 5: What is content?** _September 24_
 
-**WEEK 6: October 1** What does the internet look like?
+**WEEK 6: What does the internet look like?** _October 1_
 
-**WEEK 7: October 8** How to make the internet
+**WEEK 7: How to make the internet** _October 8_
 
-**WEEK 8: October 15** What is form? What is framing?
+**WEEK 8: What is form? What is framing?** _October 15_
 
-**WEEK 9: October 22** What is a brand? 
+**WEEK 9: What is a brand?** _October 22_ 
 
-[mid-semester evaluation]
+_mid-semester evaluation: final project begins_
 
-**WEEK 10: October 29** What is a critique? What is an idea?
+**WEEK 10: What is a critique? What is an idea?** _October 29_
 
-**WEEK 11: November 5** What is a prototype?
+**WEEK 11: What is a prototype?** _November 5_
 
 **WEEK 12: November 12** What is iteration?
 
@@ -57,10 +57,13 @@ At the end of this course, students will be able to:
 
 
 **Required text:**
-Post-digital Print - The Mutation Of Publishing Since 1894 Allessandro Ludovico
-Detail in Typography, Jost Hichuli
+
+[Post-digital Print - The Mutation Of Publishing Since 1894](http://postdigitalprint.org/) Allessandro Ludovico
+
+[Detail in Typography](https://www.dropbox.com/s/x5l9l4g0jmjbsmo/hochuli_detail_in_typography.pdf?dl=0) Jost Hichuli
 
 All readings and project assignments will be posted here.
+
 
 Some notes. 
 
