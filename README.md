@@ -64,18 +64,13 @@ All readings and project assignments will be posted here.
 
 Some notes. 
 
-1)
-This class is about synthesis. We will be covering theory, method, concept, and technique in equal proportions.
+1) This class is about synthesis. We will be covering theory, method, concept, and technique in equal proportions.
 It is not a skills-training class.   
 
-2)
-This class will require you to learn how to do a lot of things on your own. In the process, you will learn how to learn on your own, which is more valuable than anything else you learn in this class. You will be asked to do online tutorials and attempt to create things out when it’s not yet proven that you can do it. You’ll do this with help in this class, after which you’ll be able to do anything.
+2) This class will require you to learn how to do a lot of things on your own. In the process, you will learn how to learn on your own, which is more valuable than anything else you learn in this class. You will be asked to do online tutorials and attempt to create things out when it’s not yet proven that you can do it. You’ll do this with help in this class, after which you’ll be able to do anything.
 
-3) 
-You will also document your work and your ideas on a tumblr blog. If you prefer to keep this private so that it is only viewable in this class, you may put it behind a password.
+3) You will also document your work and your ideas on a tumblr blog. If you prefer to keep this private so that it is only viewable in this class, you may put it behind a password.
 
-4) 
-Depending on your level of skill and experience, this class will require 3-6 hours of work outside of class. We work in class as well, but not for more than an hour each session. Schedule yourself accordingly.
+4) Depending on your level of skill and experience, this class will require 3-6 hours of work outside of class. We work in class as well, but not for more than an hour each session. Schedule yourself accordingly.
 
-5) 
-Approach this class in the spirit of experimentation and learning. You may or may not have the chance again to develop and interrogate ideas in a community of like-minded peers. If you merely make work that is “correct,” all you will do is reinforce that notion.
+5) Approach this class in the spirit of experimentation and learning. You may or may not have the chance again to develop and interrogate ideas in a community of like-minded peers. If you merely make work that is “correct,” all you will do is reinforce that notion.
