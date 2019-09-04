@@ -25,7 +25,7 @@ At the end of this course, students will be able to:
 
 **WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-1:-Introduction-to-design-and-publishing)** _August 27_
 
-**WEEK 2: What is publishing?** _September 3_ 
+**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-2:-What-is-publishing%3F)** _September 3_ 
 
 **WEEK 3: What is design? & a little history** _September 10_
 
