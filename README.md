@@ -47,11 +47,11 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 11: What is a prototype?** _November 5_
 
-**WEEK 12: November 12** What is iteration?
+**WEEK 12: What is iteration?** _November 12_
 
-**WEEK 13: November 19** What is presentation?
+**WEEK 13: What is presentation?** _November 19_
 
-**WEEK 14: November 26** Critique: Iterations/Presentations
+**WEEK 14: Critique: Iterations/Presentations** _November 26_
 
 **WEEK 15: December 3** Final Critique with external critics
 
