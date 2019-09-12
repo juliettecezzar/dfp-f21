@@ -27,7 +27,7 @@ At the end of this course, students will be able to:
 
 **WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-2:-What-is-publishing%3F)** _September 3_ 
 
-**WEEK 3: What is design? & a little history** _September 10_
+**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-3:-What-is-design%3F-&-a-little-history)** _September 10_
 
 **WEEK 4: What is typography?** _September 17_
 
