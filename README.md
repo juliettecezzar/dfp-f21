@@ -29,7 +29,7 @@ At the end of this course, students will be able to:
 
 **WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-3:-What-is-design%3F-&-a-little-history)** _September 10_
 
-**WEEK 4: What is typography?** _September 17_
+**WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-4:-What-is-typography%3F)** _September 17_
 
 **WEEK 5: What is content?** _September 24_
 
