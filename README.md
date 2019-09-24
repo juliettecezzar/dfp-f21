@@ -31,7 +31,7 @@ At the end of this course, students will be able to:
 
 **WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-4:-What-is-typography%3F)** _September 17_
 
-**WEEK 5: What is content?** _September 24_
+**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-5:-What-is-content%3F)** _September 24_
 
 **WEEK 6: What does the internet look like?** _October 1_
 
