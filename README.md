@@ -35,7 +35,7 @@ At the end of this course, students will be able to:
 
 **WEEK 6: [What does the internet look like?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-6:-What-does-the-internet-look-like%3F)** _October 1_
 
-**WEEK 7: How to make the internet** _October 8_
+**WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-7:-How-to-make-the-internet)** _October 8_
 
 **WEEK 8: What is form? What is framing?** _October 15_
 
