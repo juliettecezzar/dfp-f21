@@ -37,7 +37,7 @@ At the end of this course, students will be able to:
 
 **WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-7:-How-to-make-the-internet)** _October 8_
 
-**WEEK 8: What is form? What is framing?** _October 15_
+**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-8:-What-is-form%3F-What-is-framing%3F)** _October 15_
 
 **WEEK 9: What is a brand?** _October 22_ 
 
