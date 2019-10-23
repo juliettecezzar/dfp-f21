@@ -39,7 +39,7 @@ At the end of this course, students will be able to:
 
 **WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-8:-What-is-form%3F-What-is-framing%3F)** _October 15_
 
-**WEEK 9: What is a brand?** _October 22_ 
+**WEEK 9: [What is a brand?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-9:-What-is-a-brand%3F)** _October 22_ 
 
 _mid-semester evaluation: final project begins_
 
