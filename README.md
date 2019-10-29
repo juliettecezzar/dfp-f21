@@ -43,9 +43,9 @@ At the end of this course, students will be able to:
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 10: What is a critique? What is an idea?** _October 29_
+**WEEK 10: [What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f19/wiki/_new)** _October 29_
 
-**WEEK 11: What is a prototype?** _November 5_
+**WEEK 11: What is a critique? What is a prototype?** _November 5_
 
 **WEEK 12: What is iteration?** _November 12_
 
