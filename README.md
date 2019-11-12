@@ -45,9 +45,9 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 10: [What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f19/wiki/_new)** _October 29_
 
-**WEEK 11: What is a critique? What is a prototype?** _November 5_
+**WEEK 11: [What is a critique? What is a prototype?](https://github.com/juliettecezzar/dfp-f19/wiki/Week-11:-What-is-a-critique%3F-What-is-a-prototype%3F)** _November 5_
 
-**WEEK 12: What is iteration?** _November 12_
+**WEEK 12: [What is iteration?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-12:-What-is-iteration%3F)** _November 12_
 
 **WEEK 13: What is presentation?** _November 19_
 
