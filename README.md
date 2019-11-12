@@ -53,7 +53,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 14: Critique: Iterations/Presentations** _November 26_
 
-**WEEK 15: December 3** Final Critique with external critics
+**WEEK 15: Final Critique with external critics** _December 3_
 
 
 **Required text:**
