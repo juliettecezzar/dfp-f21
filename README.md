@@ -49,7 +49,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 12: [What is iteration?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-12:-What-is-iteration%3F)** _November 12_
 
-**WEEK 13: What is presentation?** _November 19_
+**WEEK 13: [What is presentation?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-13:-What-is-presentation%3F)** _November 19_
 
 **WEEK 14: Critique: Iterations/Presentations** _November 26_
 
