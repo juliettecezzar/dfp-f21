@@ -51,7 +51,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 13: [What is presentation?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-13:-What-is-presentation%3F)** _November 19_
 
-**WEEK 14: Critique: Iterations/Presentations** _November 26_
+**WEEK 14: [Critique: Iterations/Presentations](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-14:-Critique:-Iterations-Presentations)** _November 26_
 
 **WEEK 15: Final Critique with external critics** _December 3_
 
