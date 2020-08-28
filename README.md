@@ -23,37 +23,37 @@ At the end of this course, students will be able to:
 – Offer constructive feedback for others’ work
 
 
-**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-1:-Introduction-to-design-and-publishing)** _August 27_
+**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-1:-Introduction-to-design-and-publishing)** _September 1_
 
-**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-2:-What-is-publishing%3F)** _September 3_ 
+**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-2:-What-is-publishing%3F)** _September 8_ 
 
-**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-3:-What-is-design%3F-&-a-little-history)** _September 10_
+**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-3:-What-is-design%3F-&-a-little-history)** _September 15_
 
-**WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-4:-What-is-typography%3F)** _September 17_
+**WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-4:-What-is-typography%3F)** _September 22_
 
-**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-5:-What-is-content%3F)** _September 24_
+**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-5:-What-is-content%3F)** _September 29_
 
-**WEEK 6: [What does the internet look like?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-6:-What-does-the-internet-look-like%3F)** _October 1_
+**WEEK 6: [What does the internet look like?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-6:-What-does-the-internet-look-like%3F)** _October 6_
 
-**WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-7:-How-to-make-the-internet)** _October 8_
+**WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-7:-How-to-make-the-internet)** _October 13_
 
-**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-8:-What-is-form%3F-What-is-framing%3F)** _October 15_
+**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-8:-What-is-form%3F-What-is-framing%3F)** _October 20_
 
-**WEEK 9: [What is a brand?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-9:-What-is-a-brand%3F)** _October 22_ 
+**WEEK 9: [What is a brand?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-9:-What-is-a-brand%3F)** _October 27_ 
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 10: [What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f19/wiki/_new)** _October 29_
+**WEEK 10: [What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f20/wiki/_new)** _November 3_
 
-**WEEK 11: [What is a critique? What is a prototype?](https://github.com/juliettecezzar/dfp-f19/wiki/Week-11:-What-is-a-critique%3F-What-is-a-prototype%3F)** _November 5_
+**WEEK 11: [What is a critique? What is a prototype?](https://github.com/juliettecezzar/dfp-f20/wiki/Week-11:-What-is-a-critique%3F-What-is-a-prototype%3F)** _November 10_
 
-**WEEK 12: [What is iteration?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-12:-What-is-iteration%3F)** _November 12_
+**WEEK 12: [What is iteration?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-12:-What-is-iteration%3F)** _November 17_
 
-**WEEK 13: [What is presentation?](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-13:-What-is-presentation%3F)** _November 19_
+**WEEK 13: [What is presentation?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-13:-What-is-presentation%3F)** _November 24_
 
-**WEEK 14: [Critique: Iterations/Presentations](https://github.com/juliettecezzar/dfp-f19/wiki/WEEK-14:-Critique:-Iterations-Presentations)** _November 26_
+**WEEK 14: [Critique: Iterations/Presentations](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-14:-Critique:-Iterations-Presentations)** _December 1_
 
-**WEEK 15: Final Critique with external critics** _December 3_
+**WEEK 15: Final Critique with external critics** _December 8_
 
 
 **Required text:**
