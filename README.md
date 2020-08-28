@@ -23,23 +23,23 @@ At the end of this course, students will be able to:
 – Offer constructive feedback for others’ work
 
 
-**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-1:-Introduction-to-design-and-publishing)** _September 1_
+**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-01:-Introduction-to-design-and-publishing)** _September 1_
 
-**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-2:-What-is-publishing%3F)** _September 8_ 
+**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-02:-What-is-publishing%3F)** _September 8_ 
 
-**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-3:-What-is-design%3F-&-a-little-history)** _September 15_
+**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-03:-What-is-design%3F-&-a-little-history)** _September 15_
 
-**WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-4:-What-is-typography%3F)** _September 22_
+**WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-04:-What-is-typography%3F)** _September 22_
 
-**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-5:-What-is-content%3F)** _September 29_
+**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-05:-What-is-content%3F)** _September 29_
 
-**WEEK 6: [What does the internet look like?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-6:-What-does-the-internet-look-like%3F)** _October 6_
+**WEEK 6: [What does the internet look like?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-06:-What-does-the-internet-look-like%3F)** _October 6_
 
-**WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-7:-How-to-make-the-internet)** _October 13_
+**WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-07:-How-to-make-the-internet)** _October 13_
 
-**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-8:-What-is-form%3F-What-is-framing%3F)** _October 20_
+**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F)** _October 20_
 
-**WEEK 9: [What is a brand?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-9:-What-is-a-brand%3F)** _October 27_ 
+**WEEK 9: [What is a brand?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-09:-What-is-a-brand%3F)** _October 27_ 
 
 _mid-semester evaluation: final project begins_
 
