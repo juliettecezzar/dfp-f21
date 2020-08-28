@@ -74,6 +74,6 @@ It is not a skills-training class.
 
 3) You will also document your work and your ideas on a tumblr blog. If you prefer to keep this private so that it is only viewable in this class, you may put it behind a password.
 
-4) Depending on your level of skill and experience, this class will require 3-6 hours of work outside of class. We work in class as well, but not for more than an hour each session. Schedule yourself accordingly.
+4) Depending on your level of skill and experience, this class will require 3-6 hours of work outside of class. Please schedule yourself accordingly.
 
 5) Approach this class in the spirit of experimentation and learning. You may or may not have the chance again to develop and interrogate ideas in a community of like-minded peers. If you merely make work that is “correct,” all you will do is reinforce that notion.
