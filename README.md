@@ -43,7 +43,7 @@ At the end of this course, students will be able to:
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 10: [What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f20/wiki/_new)** _November 3_
+**WEEK 10: [What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-10:-What-is-an-idea%3F-What-is-a-medium%3F)** _November 3_
 
 **WEEK 11: [What is a critique? What is a prototype?](https://github.com/juliettecezzar/dfp-f20/wiki/Week-11:-What-is-a-critique%3F-What-is-a-prototype%3F)** _November 10_
 
