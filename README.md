@@ -33,9 +33,9 @@ At the end of this course, students will be able to:
 
 **WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-05:-What-is-content%3F)** _September 29_
 
-**WEEK 6: [What does the internet look like?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-06:-What-does-the-internet-look-like%3F)** _October 6_
+**WEEK 6: [What does the internet look like? How to make the internet](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-06:-What-does-the-internet-look-like%3F)** _October 6_
 
-**WEEK 7: [How to make the internet](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-07:-How-to-make-the-internet)** _October 13_
+**WEEK 7: [What is the internet? What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-07:-How-to-make-the-internet)** _October 13_
 
 **WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F)** _October 20_
 
