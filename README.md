@@ -37,7 +37,7 @@ At the end of this course, students will be able to:
 
 **WEEK 7: [What is the internet? What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-07:-How-to-make-the-internet)** _October 13_
 
-**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F)** _October 20_
+**WEEK 8: [What is form? What is framing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F-What-is-a-brand%3F)** _October 20_
 
 **WEEK 9: [What is a brand?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-09:-What-is-a-brand%3F)** _October 27_ 
 
