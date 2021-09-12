@@ -2,7 +2,7 @@
 The New School for Social Research#
 GPUB 5002-A — CRN#: 3696
 
-Office hours by appointment: cezzarj@newschool.edu
+Office hours by appointment: cezzarj@newschool.edu / [Calendly link](https://calendly.com/juliettecezzar/student-meeting-with-juliette-cezzar)
 
 
 
