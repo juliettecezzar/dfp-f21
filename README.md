@@ -29,29 +29,29 @@ At the end of this course, students will be able to:
 
 **WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-03:-What-is-design%3F-&-a-little-history)** _September 15_
 
-**WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-04:-What-is-typography%3F)** _September 22_
+**WEEK 4: What is typography?** _September 22_
 
-**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-05:-What-is-content%3F)** _September 29_
+**WEEK 5: What is content?** _September 29_
 
-**WEEK 6: [What does the internet look like? How to make the internet](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-06:-What-does-the-internet-look-like%3F)** _October 6_
+**WEEK 6: What does the internet look like? How to make the internet** _October 6_
 
-**WEEK 7: [What is the internet? What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-07:-How-to-make-the-internet)** _October 13_
+**WEEK 7: What is the internet? What is an idea? What is a medium?** _October 13_
 
-**WEEK 8: [What is form? What is framing? What is a brand?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F-What-is-a-brand%3F)** _October 20_
+**WEEK 8: What is form? What is framing? What is a brand?** _October 20_
 
-**WEEK 9: [What is a brand? What is a critique?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-09:-What-is-a-brand%3F-What-is-a-critique%3F)** _October 27_ 
+**WEEK 9: What is a brand? What is a critique?** _October 27_ 
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 10: [What is a prototype?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-10:-What-is-a-prototype%3F)** _November 3_
+**WEEK 10: What is a prototype?** _November 3_
 
-**WEEK 11: [What is iteration?](https://github.com/juliettecezzar/dfp-f20/wiki/Week-11:-What-is-iteration%3F)** _November 10_
+**WEEK 11: What is iteration?** _November 10_
 
-**WEEK 12: [What is iteration?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-12:-What-is-iteration%3F)** _November 17_
+**WEEK 12: What is iteration?** _November 17_
 
-**WEEK 13: [What is presentation?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-13:-What-is-presentation%3F)** _November 24_
+**WEEK 13: What is presentation?** _November 24_
 
-**WEEK 14: [Critique: Iterations/Presentations](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-14:-Critique:-Iterations-Presentations)** _December 1_
+**WEEK 14: Critique: Iterations/Presentations** _December 1_
 
 **WEEK 15: Final Critique with external critics** _December 8_
 
