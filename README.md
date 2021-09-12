@@ -23,11 +23,11 @@ At the end of this course, students will be able to:
 – Offer constructive feedback for others’ work
 
 
-**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-01:-Introduction-to-design-and-publishing)** _August 31_
+**WEEK 1: [Introduction to design and publishing](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-01:-Introduction-to-design-and-publishing)** _August 31_
 
-**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-02:-What-is-publishing%3F)** _September 8_ 
+**WEEK 2: [What is publishing?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-02:-What-is-publishing%3F)** _September 8_ 
 
-**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f20/wiki/WEEK-03:-What-is-design%3F-&-a-little-history)** _September 15_
+**WEEK 3: [What is design? & a little history](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-03:-What-is-design%3F-&-a-little-history)** _September 15_
 
 **WEEK 4: What is typography?** _September 22_
 
