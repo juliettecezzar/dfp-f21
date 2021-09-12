@@ -72,7 +72,7 @@ It is not a skills-training class.
 
 2) This class will require you to learn how to do a lot of things on your own. In the process, you will learn how to learn on your own, which is more valuable than anything else you learn in this class. You will be asked to do online tutorials and attempt to create things out when it’s not yet proven that you can do it. You’ll do this with help in this class, after which you’ll be able to do anything.
 
-3) You will also document your work and your ideas on a tumblr blog. If you prefer to keep this private so that it is only viewable in this class, you may put it behind a password.
+3) You will also document your work and your ideas on a substack blog. If you prefer to keep this private so that it is only viewable in this class, you may make it subscriber-only.
 
 4) Depending on your level of skill and experience, this class will require 3-6 hours of work outside of class. Please schedule yourself accordingly.
 
