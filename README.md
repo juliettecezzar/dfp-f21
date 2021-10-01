@@ -31,29 +31,29 @@ At the end of this course, students will be able to:
 
 **WEEK 4: [What is typography?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-04:-What-is-typography%3F)** _September 22_
 
-**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-05:-What-is-content%3F)** _September 29_
+**WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-05:-What-is-content%3F)** _September 28_
 
-**WEEK 6: What does the internet look like? How to make the internet** _October 6_
+**WEEK 6: What does the internet look like? How to make the internet** _October 5_
 
-**WEEK 7: What is the internet? What is an idea? What is a medium?** _October 13_
+**WEEK 7: What is the internet? What is an idea? What is a medium?** _October 12_
 
-**WEEK 8: What is form? What is framing? What is a brand?** _October 20_
+**WEEK 8: What is form? What is framing? What is a brand?** _October 19_
 
-**WEEK 9: What is a brand? What is a critique?** _October 27_ 
+**WEEK 9: What is a brand? What is a critique?** _October 26_ 
 
 _mid-semester evaluation: final project begins_
 
-**WEEK 10: What is a prototype?** _November 3_
+**WEEK 10: What is a prototype?** _November 2_
 
-**WEEK 11: What is iteration?** _November 10_
+**WEEK 11: What is iteration?** _November 9_
 
-**WEEK 12: What is iteration?** _November 17_
+**WEEK 12: What is iteration?** _November 16_
 
-**WEEK 13: What is presentation?** _November 24_
+**WEEK 13: What is presentation?** _November 23_
 
-**WEEK 14: Critique: Iterations/Presentations** _December 1_
+**WEEK 14: Critique: Iterations/Presentations** _November 31_
 
-**WEEK 15: Final Critique with external critics** _December 8_
+**WEEK 15: Final Critique with external critics** _December 7_
 
 
 **Required text:**
