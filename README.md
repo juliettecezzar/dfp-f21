@@ -33,7 +33,7 @@ At the end of this course, students will be able to:
 
 **WEEK 5: [What is content?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-05:-What-is-content%3F)** _September 28_
 
-**WEEK 6: What does the internet look like? How to make the internet** _October 5_
+**WEEK 6: [What does the internet look like? How to make the internet](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-06:-What-does-the-internet-look-like%3F-How-to-make-the-internet)** _October 5_
 
 **WEEK 7: What is the internet? What is an idea? What is a medium?** _October 12_
 
