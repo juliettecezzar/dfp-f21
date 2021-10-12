@@ -35,7 +35,7 @@ At the end of this course, students will be able to:
 
 **WEEK 6: [What does the internet look like? How to make the internet](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-06:-What-does-the-internet-look-like%3F-How-to-make-the-internet)** _October 5_
 
-**WEEK 7: What is the internet? What is an idea? What is a medium?** _October 12_
+**WEEK 7: [What is the internet? What is an idea? What is a medium?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-07:-What-is-form%3F-What-is-framing%3F)** _October 12_
 
 **WEEK 8: What is form? What is framing? What is a brand?** _October 19_
 
