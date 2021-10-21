@@ -37,7 +37,7 @@ At the end of this course, students will be able to:
 
 **WEEK 7: [What is AI? What is form?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-07:-What-is-form%3F-What-is-framing%3F)** _October 12_
 
-**WEEK 8: What is a brand?** _October 19_
+**WEEK 8: [What is a brand?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F-What-is-a-brand%3F)** _October 19_
 
 **WEEK 9: What is a critique?** _October 26_ 
 
