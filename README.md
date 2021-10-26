@@ -39,7 +39,7 @@ At the end of this course, students will be able to:
 
 **WEEK 8: [What is a brand?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-08:-What-is-form%3F-What-is-framing%3F-What-is-a-brand%3F)** _October 19_
 
-**WEEK 9: What is a critique?** _October 26_ 
+**WEEK 9: [What is an idea?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-09:-What-is-an-idea%3F)** _October 26_ 
 
 _mid-semester evaluation: final project begins_
 
