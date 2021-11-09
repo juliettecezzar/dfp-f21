@@ -45,7 +45,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 10: [What is validation? What is a prototype? What is a critique?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-10:-What-is-validation%3F-What-is-a-prototype%3F-What-is-a-critique%3F)** _November 2_
 
-**WEEK 11: What is iteration?** _November 9_
+**WEEK 11: [What is iteration?](https://github.com/juliettecezzar/dfp-f21/wiki/Week-11:-What-is-a-prototype%3F)** _November 9_
 
 **WEEK 12: What is iteration?** _November 16_
 
