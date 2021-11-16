@@ -47,7 +47,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 11: [What is iteration?](https://github.com/juliettecezzar/dfp-f21/wiki/Week-11:-What-is-a-prototype%3F)** _November 9_
 
-**WEEK 12: What is iteration?** _November 16_
+**WEEK 12: [What is iteration?](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-12:-What-is-iteration%3F)** _November 16_
 
 **WEEK 13: What is presentation?** _November 23_
 
