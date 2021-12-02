@@ -51,7 +51,7 @@ _mid-semester evaluation: final project begins_
 
 **WEEK 13: [Individual meetings](https://github.com/juliettecezzar/dfp-f21/wiki/Week-13:-Individual-meetings)** _November 23_
 
-**WEEK 14: Critique: Iterations/Presentations** _November 31_
+**WEEK 14: [Critique: Iterations/Presentations](https://github.com/juliettecezzar/dfp-f21/wiki/WEEK-14:-Critique:-Iterations-Presentations)** _November 31_
 
 **WEEK 15: Final Critique with external critics** _December 7_
 
